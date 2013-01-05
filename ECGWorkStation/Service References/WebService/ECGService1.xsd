@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="User">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="permission" type="xs:int" />
+      <xs:element minOccurs="0" name="realID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="username" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="User" nillable="true" type="tns:User" />
+  <xs:complexType name="ArrayOfUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="User" nillable="true" type="tns:User" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfUser" nillable="true" type="tns:ArrayOfUser" />
+  <xs:complexType name="Patient">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="address" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="dateOfBirth" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="job" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="patientID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="patientName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="sex" type="xs:boolean" />
+      <xs:element minOccurs="0" name="weight" type="xs:float" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Patient" nillable="true" type="tns:Patient" />
+  <xs:complexType name="ArrayOfPatient">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Patient" nillable="true" type="tns:Patient" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPatient" nillable="true" type="tns:ArrayOfPatient" />
+  <xs:complexType name="Doctor">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="phone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="room" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Doctor" nillable="true" type="tns:Doctor" />
+  <xs:complexType name="ArrayOfComment">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Comment" nillable="true" type="tns:Comment" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfComment" nillable="true" type="tns:ArrayOfComment" />
+  <xs:complexType name="Comment">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="changedDateTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="docID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="docName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="recordID" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Comment" nillable="true" type="tns:Comment" />
+  <xs:complexType name="ArrayOfPattern">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Pattern" nillable="true" type="tns:Pattern" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPattern" nillable="true" type="tns:ArrayOfPattern" />
+  <xs:complexType name="Pattern">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="patternID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="patternName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Pattern" nillable="true" type="tns:Pattern" />
+  <xs:complexType name="ArrayOfHistoryRecord">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="HistoryRecord" nillable="true" type="tns:HistoryRecord" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfHistoryRecord" nillable="true" type="tns:ArrayOfHistoryRecord" />
+  <xs:complexType name="HistoryRecord">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="dateTimeOfRecord" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="doctorID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="doctorName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="heartRate" type="xs:int" />
+      <xs:element minOccurs="0" name="patientID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="qr" type="xs:int" />
+      <xs:element minOccurs="0" name="qrs" type="xs:int" />
+      <xs:element minOccurs="0" name="r" type="xs:float" />
+      <xs:element minOccurs="0" name="recordDir" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="recordID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rs" type="xs:int" />
+      <xs:element minOccurs="0" name="totalTime" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="HistoryRecord" nillable="true" type="tns:HistoryRecord" />
+</xs:schema>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="UploadECGRecord">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="recordID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PID" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="datetime" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadECGRecordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UploadECGRecordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadECGRecord2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="recordID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PID" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="datetime" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="totalTime" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="docID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="docName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="heartRate" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="R" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="QR" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="RS" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="QRS" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadECGRecord2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UploadECGRecord2Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadDiseasePattern">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patternID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="patternName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadDiseasePatternResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UploadDiseasePatternResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="UploadECGRecordSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadECGRecord" />
+  </wsdl:message>
+  <wsdl:message name="UploadECGRecordSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadECGRecordResponse" />
+  </wsdl:message>
+  <wsdl:message name="UploadECGRecord2SoapIn">
+    <wsdl:part name="parameters" element="tns:UploadECGRecord2" />
+  </wsdl:message>
+  <wsdl:message name="UploadECGRecord2SoapOut">
+    <wsdl:part name="parameters" element="tns:UploadECGRecord2Response" />
+  </wsdl:message>
+  <wsdl:message name="UploadDiseasePatternSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadDiseasePattern" />
+  </wsdl:message>
+  <wsdl:message name="UploadDiseasePatternSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadDiseasePatternResponse" />
+  </wsdl:message>
+  <wsdl:portType name="FileUploaderSoap">
+    <wsdl:operation name="UploadECGRecord">
+      <wsdl:input message="tns:UploadECGRecordSoapIn" />
+      <wsdl:output message="tns:UploadECGRecordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadECGRecord2">
+      <wsdl:input message="tns:UploadECGRecord2SoapIn" />
+      <wsdl:output message="tns:UploadECGRecord2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadDiseasePattern">
+      <wsdl:input message="tns:UploadDiseasePatternSoapIn" />
+      <wsdl:output message="tns:UploadDiseasePatternSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="FileUploaderSoap" type="tns:FileUploaderSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="UploadECGRecord">
+      <soap:operation soapAction="http://tempuri.org/UploadECGRecord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadECGRecord2">
+      <soap:operation soapAction="http://tempuri.org/UploadECGRecord2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadDiseasePattern">
+      <soap:operation soapAction="http://tempuri.org/UploadDiseasePattern" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="FileUploaderSoap12" type="tns:FileUploaderSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="UploadECGRecord">
+      <soap12:operation soapAction="http://tempuri.org/UploadECGRecord" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadECGRecord2">
+      <soap12:operation soapAction="http://tempuri.org/UploadECGRecord2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadDiseasePattern">
+      <soap12:operation soapAction="http://tempuri.org/UploadDiseasePattern" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="FileUploader">
+    <wsdl:port name="FileUploaderSoap" binding="tns:FileUploaderSoap">
+      <soap:address location="http://ecgproject.somee.com/FileUploadService/FileUploader.asmx" />
+    </wsdl:port>
+    <wsdl:port name="FileUploaderSoap12" binding="tns:FileUploaderSoap12">
+      <soap12:address location="http://ecgproject.somee.com/FileUploadService/FileUploader.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
