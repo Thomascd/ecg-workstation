@@ -1,0 +1,142 @@
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\bin\Debug\ECGWorkStation.exe.config
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\bin\Debug\ECGWorkStation.exe
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\bin\Debug\ECGWorkStation.pdb
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.CommentLabel.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.LoginForm.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.MonitorForm.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientLabel.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientListForm.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientManager.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordLabel.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordManager.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SettingForm.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Properties.Resources.resources
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csproj.GenerateResource.Cache
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.exe
+E:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\bin\Debug\ECGWorkStation.exe.config
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\bin\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\bin\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csprojResolveAssemblyReference.cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.CommentLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.LoginForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.MonitorForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientListForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SettingForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Properties.Resources.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csproj.GenerateResource.Cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SimulatorControlForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.NoticeLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.ViewNoticeForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Graph.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\bin\Debug\ECGWorkStation.exe.config
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\bin\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\bin\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csprojResolveAssemblyReference.cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.CommentLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Graph.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.NoticeLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SimulatorControlForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.LoginForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.MonitorForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientListForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SettingForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.ViewNoticeForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Properties.Resources.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\24.11-21h - new graphics\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csproj.GenerateResource.Cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\bin\Debug\ECGWorkStation.exe.config
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\bin\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\bin\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csprojResolveAssemblyReference.cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.CommentLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Graph.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.NoticeLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SimulatorControlForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.LoginForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.MonitorForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientListForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SettingForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.ViewNoticeForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Properties.Resources.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csproj.GenerateResource.Cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\bin\Debug\ECGWorkStation.exe.config
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\bin\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\bin\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csprojResolveAssemblyReference.cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.CommentLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Graph.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.NoticeLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SimulatorControlForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.LoginForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.MonitorForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientListForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SettingForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.ViewNoticeForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Properties.Resources.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csproj.GenerateResource.Cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\bin\Debug\ECGWorkStation.exe.config
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csprojResolveAssemblyReference.cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.CommentLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Graph.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.NoticeLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SimulatorControlForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.LoginForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.MonitorForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientListForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SettingForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.ViewNoticeForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Properties.Resources.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csproj.GenerateResource.Cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\bin\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\WorkStation_UPD - Copy\ECGWorkStation\bin\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\bin\Debug\ECGWorkStation.exe.config
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\bin\Debug\ECGWorkStation.exe
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\bin\Debug\ECGWorkStation.pdb
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csprojResolveAssemblyReference.cache
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.CommentLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Graph.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.NoticeLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SimulatorControlForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.LoginForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.MonitorForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientListForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.PatientManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordLabel.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.RecordManager.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.SettingForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.ViewNoticeForm.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.Properties.Resources.resources
+D:\Cloud Store\Dropbox\Research\ECG\Software\Backup\Ver4.0\3.1.2013\ECGWorkStation\obj\x86\Debug\ECGWorkStation.csproj.GenerateResource.Cache
