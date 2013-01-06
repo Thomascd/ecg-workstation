@@ -1,8 +1,0 @@
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\bin\Debug\test.exe.config
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\bin\Debug\test.exe
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\bin\Debug\test.pdb
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\obj\Debug\test.Form1.resources
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\obj\Debug\test.Properties.Resources.resources
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\obj\Debug\test.csproj.GenerateResource.Cache
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\obj\Debug\test.exe
-D:\Cloud Store\Dropbox\Research\ECG\Software\Ver4.0\ECGWorkStation_WithQRSDetect\test\obj\Debug\test.pdb
