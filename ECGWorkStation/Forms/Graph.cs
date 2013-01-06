@@ -178,18 +178,19 @@ namespace ECGWorkStation
                     if (x > newx)
                     {
                         x = 0;
-                    //    graph.Clear(Color.Black);
+                        //    graph.Clear(Color.Black);
                     }
 
                     DrawBackground((int)x);
                     graph.DrawLine(
-                        greenPen, 
-                        x,        y, 
+                        greenPen,
+                        x, y,
                         x = newx, y = (int)(this.Height / 2 - 400 * RoomRate * Data.LastSign));
 
                     LastTime = Data.LastTime;
                 }
-                else Thread.Sleep(101 - AccuracyRate);
+                //else Thread.Sleep(101 - AccuracyRate);
+                else Thread.Sleep(2);
             }
         }
 
