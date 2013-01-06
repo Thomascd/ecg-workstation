@@ -759,11 +759,15 @@ namespace ECGWorkStation
 
         #region Simulator
 
+        DateTime Starttime;
+
         void StartSimulator(object sender, EventArgs e)
         {
             bool ok = ReadInputFile(SimulatorData, SimulatorControler.FileName);
             if (ok)
             {
+                Starttime = DateTime.Now;
+
                 SimulatorThread = new Thread(new ThreadStart(this.SentData));
                 SimulatorThread.Start();
 
@@ -774,20 +778,39 @@ namespace ECGWorkStation
 
         void SentData()
         {
-            int id;
+            int newId = 0;
+            int LastId = 0;
+
             while (true)
             {
                 //id = 0;
                 //while (!Flag[id]) id++;
-                //id = Data[id].Count % SimulatorData[id].Count;
-                id = Data[0].Count % SimulatorData[0].Count;
+                //id = Data[id].Count % SimulatorData[id].Count;                
+                newId = (int)((DateTime.Now.Subtract(Starttime).TotalMilliseconds / 2) % SimulatorData[0].Count);
 
-                for (int i = 0; i < 12; i++)
-                    if (Flag[i])
+                if (newId < LastId)
+                {
+                    for (; LastId < SimulatorData[0].Count; LastId++)
                     {
-                        Data[i].LastSign = SimulatorData[i].Sign[id];
-                        Data[i].LastTime = Data[i].LastTime + 2;
+                        for (int i = 0; i < 12; i++)
+                            if (Flag[i])
+                            {
+                                Data[i].LastSign = SimulatorData[i].Sign[LastId];
+                                Data[i].LastTime = Data[i].LastTime + 2;
+                            }
                     }
+                    LastId = 0;
+                }
+
+                for (; LastId <= newId; LastId++)
+                {
+                    for (int i = 0; i < 12; i++)
+                        if (Flag[i])
+                        {
+                            Data[i].LastSign = SimulatorData[i].Sign[LastId];
+                            Data[i].LastTime = Data[i].LastTime + 2;
+                        }
+                }
                 Thread.Sleep(2);
             }
         }
