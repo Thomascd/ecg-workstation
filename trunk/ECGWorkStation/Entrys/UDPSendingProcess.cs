@@ -130,7 +130,11 @@ namespace ECGWorkStation
                 case "OK":
                     isAvailableToSend = true;
                     //Khi bắt đầu gửi thì lấy 20 tín hiệu gần nhất (cuối cùng)
-                    this.lastCount = ECGDataArray[0].Count - 20;
+                    this.lastCount = ECGDataArray[0].Count - 10;
+                    if (lastCount < 0)
+                    {
+                        lastCount = 0;
+                    }
                     sendThread = new Thread(new ThreadStart(send));
                     sendThread.Start();
                     break;
@@ -139,6 +143,9 @@ namespace ECGWorkStation
 
         private void send()
         {
+            string s = "RequestData|P20120001|a";
+            byte[] bytes = System.Text.Encoding.ASCII.GetBytes(s);
+            clientUDPSocket.Send(bytes, bytes.Length, serverDataEndPoint);
             while (isAvailableToSend)
             {
                 int count = ECGDataArray[0].Count;
@@ -146,13 +153,13 @@ namespace ECGWorkStation
 
                 if (lastCount == count)
                 {
-                    countToDead++;
-                    if (countToDead == 3)
-                    {
-                        isAvailableToSend = false;
-                        break;
-                    }
-                    Thread.Sleep(40);
+                    //countToDead++;
+                    //if (countToDead == 3)
+                    //{
+                    //    isAvailableToSend = false;
+                    //    break;
+                    //}
+                    Thread.Sleep(20);
                     continue;
                 }
 
@@ -205,7 +212,7 @@ namespace ECGWorkStation
 
                 //Gửi dữ liệu cho server
                 clientUDPSocket.Send(sendBytes, sendBytes.Length, serverDataEndPoint);
-                Thread.Sleep(40);
+                Thread.Sleep(20);
             }
         }
 
