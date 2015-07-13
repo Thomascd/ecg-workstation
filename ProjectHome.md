@@ -1,0 +1,1 @@
+Workstation module in ECG analysis and diagnostic system
